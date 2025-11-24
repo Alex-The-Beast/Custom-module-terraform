@@ -71,9 +71,3 @@ Purpose: customer-facing high-performance environment.
 
 ---
 
-# 🚀 Selecting Environments in Terraform
-
-### **Option 1 — Workspaces**
-```bash
-terraform workspace select dev
-terraform apply
