@@ -1,6 +1,6 @@
 # Terraform Multi-Environment Architecture
 
-![Terraform Multi Environment Diagram](sandbox:/mnt/data/89a0e324-440b-4ad2-8979-75c1cb35b27e.png)
+![Terraform Multi Environment Diagram](image.png)
 
 ## 📌 Overview
 This diagram represents a **Terraform-based multi-environment infrastructure**, where a user triggers Terraform (Tf) to deploy resources into:
