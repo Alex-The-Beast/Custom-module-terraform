@@ -1,0 +1,7 @@
+*.pub
+terraform.tfstate
+terraform.tfstate.backup
+
+terraform-local
+.terraform.lock.hcl
+.terraform/
